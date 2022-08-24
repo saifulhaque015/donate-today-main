@@ -1,0 +1,193 @@
+.top-header{
+    background-image: url(./images/donation0.jpg);
+    padding: 5%;
+    background-size: 100% 100%;
+    padding-top: 100px;
+    text-align: center;
+    color: whitesmoke;
+    font-family: font-family: 'Roboto', sans-serif;
+    ;
+}
+.wh{
+    
+        font-size: 48px;
+        font-family: ;
+        line-height: .01;
+        
+}
+.mn{
+    font-size: 48px;
+
+}
+.content p{
+    font-size: 20px;
+}
+
+.top-header button{
+
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.overlayer{
+    height: 65%;
+    width: 100%;
+    /* background-color: rgba(0,0,0,.5); */
+    position: absolute;
+/*    offset*/
+    top: 0px;
+    left: 0px;
+    
+}
+
+#sp{
+    height: 400px;
+    width: 100%;
+    /* border: 1px solid black; */
+    text-align: center;
+    padding-top: 70px;
+}
+
+#sp .btn{
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#sp .donate{
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#third{
+    height: 600px;
+    width: 100%;
+}
+#third .Fst{
+    text-align: center;
+}
+#third .Snd .box1{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(166, 166, 228, 0.466);
+    float: left;
+}
+#third .Snd .box2{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(189, 109, 182, 0.466);
+    float: left;
+}
+#third .Snd .box3{
+    height: 300px;
+    width: 400px;
+    background-color: rgba(172, 137, 42, 0.466);
+    float: left;
+}
+
+#fourth{
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+    display: block;
+
+}
+
+#fourth .left{
+    height: 400px;
+    width: 40%;
+    
+    display: block;
+    float: left;
+}
+
+#fourth .right{
+    height: 400px;
+    width: 40%;
+   
+    display: block;
+    float: left;
+}
+
+#fourth .left button{
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#five{
+    height: 500px;
+    width: 100%;
+    padding-top: 50px;
+    
+
+}
+
+#five .side1{
+    height: 400px;
+    width: 40%;
+   
+   
+    float: left;
+}
+
+#five .side2{
+    height: 400px;
+    width: 40%;
+    
+    padding-left: 75px;
+    float: left;
+}
+
+#five .side2 button{
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+#six .six1{
+    text-align: center;
+}
+
+#six .six2{
+    padding-top:50px ;
+    text-align: center;
+}
+#six .six2 button{
+    background-color: rgb(204, 99, 99);
+    color: rgb(241, 239, 239);
+    border: none;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
